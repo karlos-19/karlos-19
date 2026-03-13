@@ -1,5 +1,5 @@
 # Prazer, me chamo Karlos Daniel! ♨
- -
+
 Tenho enho grande interesse pela área de tecnologia. Atualmente estudo programação, com foco em Java, SpringBoot, Banco de Dados e desenvolvimento web com HTML e CSS, buscando evoluir através de projetos práticos e aprendizado contínuo. Também tenho interesse em hardware de computadores, explorando diferentes aspectos da tecnologia. Cursando engenharia de Software pela Uniceplac, atualmente estou no 4º Semestre.
 
 ```java
